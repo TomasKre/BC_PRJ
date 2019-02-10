@@ -1,0 +1,7 @@
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\bin\Debug\B_PRJ.exe.config
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\bin\Debug\B_PRJ.exe
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\bin\Debug\B_PRJ.pdb
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\obj\Debug\B_PRJ.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\obj\Debug\B_PRJ.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\obj\Debug\B_PRJ.exe
+C:\Users\Tomáš\source\repos\B_PRJ\B_PRJ\obj\Debug\B_PRJ.pdb
